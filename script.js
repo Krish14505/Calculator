@@ -5,7 +5,7 @@ let previousOperator;
 const screen = document.querySelector(".screen");
 
 function buttonClick(value) {
-    
+    fiwoehfgwai
     if(isNaN(value)) {
         handleSysmbol(value);
     }else {
