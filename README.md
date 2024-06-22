@@ -7,3 +7,4 @@ subtraction, multiplication, and division) using  graphical buttons.
 
 - I have used HTML, CSS, JavaScript to build this.
   
+- There is a video attached with this repository  inside the folder called "Outcome" which shows the actual outcome of the project.
